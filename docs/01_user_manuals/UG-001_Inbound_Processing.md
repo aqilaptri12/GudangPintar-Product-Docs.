@@ -1,10 +1,11 @@
-# í³¥ User Guide: Inbound Processing (Penerimaan Barang)
+# ï¿½ï¿½ï¿½ User Guide: Inbound Processing (Penerimaan Barang)
 
 **Versi Dokumen:** 1.2  
 **Terakhir Diperbarui:** 18 Nov 2025  
 **Role:** Admin Inbound
 
 ---
+
 
 ## 1. Pendahuluan
 Fitur **Inbound Processing** memungkinkan staf gudang untuk mencatat barang masuk dari *supplier* ke dalam sistem inventaris. Proses ini krusial untuk menjaga akurasi stok fisik dan sistem.

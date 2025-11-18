@@ -1,13 +1,13 @@
-# Ì≥ö GudangPintar Product Documentation Hub
+# GudangPintar Product Documentation Hub
 
 **Maintained by:** Aqila Putri | *Technical Writer & Localization Specialist*
 
 ---
 
-## Ì≥ã Overview
+## verview
 Repository ini berisi dokumentasi teknis lengkap untuk **GudangPintar WMS (Warehouse Management System)** v2.0. Dokumentasi ini mencakup panduan untuk pengguna akhir (*end-user*), spesifikasi API untuk developer, dan standar penulisan internal.
 
-## Ì∑ÇÔ∏è Struktur Dokumentasi
+## Struktur Dokumentasi
 
 | Kategori | Deskripsi | Audiens |
 | :--- | :--- | :--- |
