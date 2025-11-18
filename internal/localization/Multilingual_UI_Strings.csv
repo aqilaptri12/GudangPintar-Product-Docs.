@@ -1,0 +1,13 @@
+Key_ID,Context,English (Source),Indonesian (Target),Mandarin Simplified (Target),Mandarin Pinyin
+btn_login,Login Screen Button,Login,Masuk,登录,Dēnglù
+lbl_username,Login Screen Label,Username,Nama Pengguna,用户名,Yònghù míng
+lbl_password,Login Screen Label,Password,Kata Sandi,密码,Mìmǎ
+menu_inventory,Dashboard Sidebar,Inventory Management,Manajemen Stok,库存管理,Kùcún Guǎnlǐ
+menu_inbound,Dashboard Sidebar,Inbound (Stock In),Penerimaan Barang,入库,Rùkù
+menu_outbound,Dashboard Sidebar,Outbound (Stock Out),Pengiriman Barang,出库,Chūkù
+btn_submit,Form Action,Submit,Kirim,提交,Tíjiāo
+btn_cancel,Form Action,Cancel,Batal,取消,Qǔxiāo
+msg_success,Toast Notification,Data saved successfully,Data berhasil disimpan,数据保存成功,Shùjù bǎocún chénggōng
+msg_error_net,Error Popup,Network connection lost,Koneksi jaringan terputus,网络连接丢失,Wǎngluò liánjiē diūshī
+status_pending,Order Status,Pending,Menunggu,待处理,Dài chǔlǐ
+status_shipped,Order Status,Shipped,Dikirim,已发货,Yǐ fāhuò
